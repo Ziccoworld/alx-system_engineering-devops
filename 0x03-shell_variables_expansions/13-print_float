@@ -1,0 +1,2 @@
+#!/bin/bash
+piintf"%.2f" $NUM | Sort
